@@ -1,4 +1,4 @@
-# tripBudget
+# trip Budget
 ReadMe
 
 Trip Travel App Policy
